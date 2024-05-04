@@ -29,7 +29,10 @@ To use ChatGptVoice, follow these steps:
 Git Clone:
 
 1. Clone
+
+
 git clone https://github.com/AryanRajCode/ChatGptVoice
+
 
 2. Install Dependencies 
 
