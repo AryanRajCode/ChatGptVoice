@@ -45,7 +45,7 @@ Contributions to ChatGptVoice are welcome! Whether you want to report a bug, sug
 
 ### License:
 
-ChatGptVoice is licensed under the [MIT License](link-to-license), allowing for flexibility in its usage and distribution.
+ChatGptVoice is licensed under the [MIT License], allowing for flexibility in its usage and distribution.
 
 ### Contact:
 
