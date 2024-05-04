@@ -22,17 +22,19 @@ ChatGptVoice is a voice-enabled conversational AI powered by OpenAI's GPT archit
 
 9. **Continuous Improvement**: The underlying AI model is regularly updated and fine-tuned to enhance the quality of responses and improve the overall user experience.
 
-### Usage:
+### To Install :
 
 To use ChatGptVoice, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies.
-3. Run the application and start conversing with ChatGptVoice using voice commands.
+Git Clone:
 
-### Getting Started:
+1. Clone
+git clone https://github.com/AryanRajCode/ChatGptVoice
 
-For detailed instructions on how to set up and use ChatGptVoice, please refer to the [documentation](link-to-docs).
+2. Install Dependencies 
+
+pip install -r requirements.txt
+
 
 ### Contributions:
 
